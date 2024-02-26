@@ -1,0 +1,15 @@
+node_modules/
+.idea/
+docker/data/
+package-lock.json
+logs/
+cookies/
+cookie*.txt
+proxy/
+tmp
+dist
+coverage
+.DS_Store
+.vscode
+.env
+*.pyc
